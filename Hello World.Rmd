@@ -1,0 +1,8 @@
+---
+title: "Hello World"
+author: "Kofi Frimpong"
+date: "September 4, 2023"
+output: pdf_document
+---
+
+## This is a markdown file
