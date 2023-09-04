@@ -1,0 +1,12 @@
+---
+title: "Hello World 3"
+author: "Kofi Frimpong"
+date: "September 4, 2023"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
